@@ -24,6 +24,7 @@ const App = () => {
     <>
       <header>
         <Nav />
+        <h1>Oh hi</h1>
       </header>
       <main>
         <Routes>
